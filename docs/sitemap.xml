@@ -3,96 +3,163 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/docs/example/</loc>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/docs/example/table-of-contents/with-toc/</loc>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/docs/example/table-of-contents/without-toc/</loc>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work6/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/docs/example/table-of-contents/</loc>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/docs/example/collapsed/</loc>
   </url>
   
   <url>
     <loc>https://tech.kiyomaru.me/posts/</loc>
-    <lastmod>2021-02-16T21:53:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/posts/test/</loc>
-    <lastmod>2021-02-16T21:53:53+09:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tech.kiyomaru.me/</loc>
-    <lastmod>2021-02-16T21:53:53+09:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tech.kiyomaru.me/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/portfolio/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tech.kiyomaru.me/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://tech.kiyomaru.me/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tech.kiyomaru.me/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tech.kiyomaru.me/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/example/collapsed/3rd-level/4th-level/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/example/collapsed/3rd-level/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/example/hidden/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/columns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/details/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/hints/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/katex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/mermaid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/section/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/section/page1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/section/page2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/shortcodes/tabs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/</loc>
   </url>
   
 </urlset>
