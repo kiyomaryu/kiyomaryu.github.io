@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://tech.kiyomaru.me/en/sitemap.xml</loc>
-    
-      <lastmod>2021-02-21T16:47:15+09:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://tech.kiyomaru.me/posts/2021-02-21/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://tech.kiyomaru.me/ru/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://tech.kiyomaru.me/zh/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://tech.kiyomaru.me/docs/commands/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://tech.kiyomaru.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/</loc>
+    <lastmod>2021-02-21T18:02:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/posts/</loc>
+    <lastmod>2021-02-21T18:02:03+09:00</lastmod>
+  </url>
+  
+</urlset>

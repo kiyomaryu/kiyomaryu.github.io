@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Hugo Book</title>
+    <title>きよまる技術ブログ</title>
     <link>https://tech.kiyomaru.me/docs/</link>
-    <description>Recent content in Docs on Hugo Book</description>
+    <description>Recent content on きよまる技術ブログ</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://tech.kiyomaru.me/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://tech.kiyomaru.me/docs/commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech.kiyomaru.me/docs/commands/</guid>
+      <description>よく使うコマンド #  Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+Example #  Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content</description>
+    </item>
+    
   </channel>
 </rss>

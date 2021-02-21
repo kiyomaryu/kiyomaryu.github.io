@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: ブログ
     weight: 5
-title: Blog
+title: ブログ
 ---
