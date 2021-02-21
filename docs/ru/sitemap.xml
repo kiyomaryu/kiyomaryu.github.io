@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech.kiyomaru.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tech.kiyomaru.me/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tech.kiyomaru.me/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech.kiyomaru.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tech.kiyomaru.me/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tech.kiyomaru.me/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech.kiyomaru.me/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech.kiyomaru.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tech.kiyomaru.me/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tech.kiyomaru.me/ru/tags/"
+                />
+  </url>
+  
+</urlset>
