@@ -35,15 +35,18 @@ enableGitInfo: true
 #    contentDir: content.zh
 #    weight: 3
 
-#menu:
-  # before: []
-#  after:
-#    - name: "Github"
-#      url: "https://github.com/alex-shpak/hugo-book"
-#      weight: 10
-#    - name: "Hugo Themes"
-#      url: "https://themes.gohugo.io/hugo-book/"
-#      weight: 20
+menu:
+  before: []
+  after:
+   - name: "Twitter"
+     url: "https://github.com/kiyomaryu"
+     weight: 10
+   - name: "Github"
+     url: "https://github.com/kiyomaryu"
+     weight: 10
+   - name: "YouTube(趣味の自転車)"
+     url: "https://www.youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q"
+     weight: 20
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -85,7 +88,7 @@ params:
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch: true
+  BookSearch: false
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template

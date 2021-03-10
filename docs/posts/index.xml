@@ -6,12 +6,14 @@
     <description>Recent content in ブログ on きよまる技術ブログ</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://tech.kiyomaru.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>技術メモを書いていく</title>
+      <title>フランクに技術ブログ書いていくよ</title>
       <link>https://tech.kiyomaru.me/posts/2021-02-21/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tech.kiyomaru.me/posts/2021-02-21/</guid>
-      <description>はじめに #  このブログの目的 #  今後の内容 #  </description>
+      <description>このブログの目的 #  インフラ系エンジニアのきよまるです。よろしくです。
+ アウトプットすることで自分の理解を深めるため 自分がやってきたことの実績を形にするため あくまで&amp;quot;自分のため&amp;quot;というのが主目的になりますが副作用として検索でブログ記事を見た人の課題解決の助けになればいいかと思って書いていきます。  もっとフランクに #  今までは技術ブログとしてWordpressを使って運用していましたが下記の理由より更新が滞っていました。
+ Wordpressに対しての記事投稿のしずらさ 後から検索のしずらさ ちゃんとした内容を書かないといけないという心理的ブロック そのためこのブログでは無理にまとめるのではなくて色々悩んだり試行錯誤した&amp;quot;過程&amp;quot;も載せていきます。技術ブログというよりは技術メモに近いです。 ということでやっていきますよろしくおねがいします。  </description>
     </item>
     
   </channel>
