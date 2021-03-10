@@ -17,18 +17,5 @@
  Wordpressに対しての記事投稿のしずらさ 後から検索のしずらさ ちゃんとした内容を書かないといけないという心理的ブロック  そのためこのブログでは無理にまとめるのではなくて色々悩んだり試行錯誤した&amp;quot;過程&amp;quot;も載せていきます。ということでやっていきますよろしくおねがいします。</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://tech.kiyomaru.me/docs/_%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tech.kiyomaru.me/docs/_%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</guid>
-      <description>よく使うコマンド #  Hint shortcode can be used as hint/alerts/notification block.
-There are 3 colors to choose: info, warning and danger.
-Example #  Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content</description>
-    </item>
-    
   </channel>
 </rss>
