@@ -1,6 +1,6 @@
 {
-  "name": "きよまる技術ブログ",
-  "short_name": "きよまる技術ブログ",
+  "name": "きよまるがやってきたことの記録",
+  "short_name": "きよまるがやってきたことの記録",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
