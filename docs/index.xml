@@ -7,10 +7,10 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://tech.kiyomaru.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フランクに技術ブログ書いていくよ</title>
-      <link>https://tech.kiyomaru.me/posts/2021-02-21/</link>
+      <link>https://tech.kiyomaru.me/posts/_2021-02-21/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tech.kiyomaru.me/posts/2021-02-21/</guid>
+      <guid>https://tech.kiyomaru.me/posts/_2021-02-21/</guid>
       <description>このブログの目的 #  インフラ系エンジニアのきよまるです。よろしくです。
  アウトプットすることで自分の理解を深めるため 自分がやってきたことの実績を形にするため  あくまで&amp;quot;自分のため&amp;quot;というのが主目的になりますが副作用として検索でブログ記事を見た人の課題解決の助けになればいいかと思って書いていきます。
 もっとフランクに #  今までは技術ブログとしてWordpressを使って運用していましたが下記の理由より更新が滞っていました。
@@ -19,10 +19,10 @@
     
     <item>
       <title></title>
-      <link>https://tech.kiyomaru.me/docs/%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
+      <link>https://tech.kiyomaru.me/docs/_%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tech.kiyomaru.me/docs/%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</guid>
+      <guid>https://tech.kiyomaru.me/docs/_%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</guid>
       <description>よく使うコマンド #  Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
 Example #  Markdown content

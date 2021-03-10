@@ -38,15 +38,15 @@ enableGitInfo: true
 menu:
   before: []
   after:
-   - name: "Twitter"
-     url: "https://github.com/kiyomaryu"
-     weight: 10
    - name: "Github"
      url: "https://github.com/kiyomaryu"
      weight: 10
+   - name: "Twitter"
+     url: "https://twitter.com/kiyomaryu_cycle"
+     weight: 20
    - name: "YouTube(趣味の自転車)"
      url: "https://www.youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q"
-     weight: 20
+     weight: 30
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
