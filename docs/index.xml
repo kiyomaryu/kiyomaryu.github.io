@@ -12,16 +12,17 @@
       
       <guid>https://tech.kiyomaru.me/posts/2021-02-21/</guid>
       <description>このブログの目的 #  インフラ系エンジニアのきよまるです。よろしくです。
- アウトプットすることで自分の理解を深めるため 自分がやってきたことの実績を形にするため あくまで&amp;quot;自分のため&amp;quot;というのが主目的になりますが副作用として検索でブログ記事を見た人の課題解決の助けになればいいかと思って書いていきます。  もっとフランクに #  今までは技術ブログとしてWordpressを使って運用していましたが下記の理由より更新が滞っていました。
- Wordpressに対しての記事投稿のしずらさ 後から検索のしずらさ ちゃんとした内容を書かないといけないという心理的ブロック そのためこのブログでは無理にまとめるのではなくて色々悩んだり試行錯誤した&amp;quot;過程&amp;quot;も載せていきます。技術ブログというよりは技術メモに近いです。 ということでやっていきますよろしくおねがいします。  </description>
+ アウトプットすることで自分の理解を深めるため 自分がやってきたことの実績を形にするため  あくまで&amp;quot;自分のため&amp;quot;というのが主目的になりますが副作用として検索でブログ記事を見た人の課題解決の助けになればいいかと思って書いていきます。
+もっとフランクに #  今までは技術ブログとしてWordpressを使って運用していましたが下記の理由より更新が滞っていました。
+ Wordpressに対しての記事投稿のしずらさ 後から検索のしずらさ ちゃんとした内容を書かないといけないという心理的ブロック  そのためこのブログでは無理にまとめるのではなくて色々悩んだり試行錯誤した&amp;quot;過程&amp;quot;も載せていきます。ということでやっていきますよろしくおねがいします。</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tech.kiyomaru.me/docs/commands/</link>
+      <link>https://tech.kiyomaru.me/docs/%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tech.kiyomaru.me/docs/commands/</guid>
+      <guid>https://tech.kiyomaru.me/docs/%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</guid>
       <description>よく使うコマンド #  Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
 Example #  Markdown content
