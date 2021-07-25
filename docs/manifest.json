@@ -1,15 +1,5 @@
 {
-  "name": "きよまるがやってきたことの記録",
-  "short_name": "きよまるがやってきたことの記録",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "/favicon.svg",
-      "sizes": "512x512"
-    }
-  ]
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/default.jpg": "static/default-bc7ceaf7925f5b47adee06511c3120ee.jpg"
 }
