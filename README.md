@@ -1,12 +1,9 @@
 ![image](https://user-images.githubusercontent.com/24783202/197696902-38eae996-485d-4159-9bc4-d477bb1fb4a6.png)
 
-# kiyomaru note
-
 # 🤔きよまるとは？
 ![image](https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png)
 
 # 🚩主な活動
-
 
 ## 🎈VRSNS
 - VRChat
