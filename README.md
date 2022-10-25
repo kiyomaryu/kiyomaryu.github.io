@@ -4,7 +4,12 @@
 
 ## 🤔きよまるとは？
 <img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="20%"><br>
-
+バーチャルとリアルの活動の配信をVR内からTwitch,YouTubeでしています。
+VRChat,Cluster,VketCloudにてワールド作ってます。
+興味があること何でもやります。
+自宅サーバとかインフラ技術が好きです。
+最近サバゲを始めました。
+毎日の食事を #今日のきよまるゴハン で3年ほどTweetしてます🍚
 
 
 ## ⚽主な活動
@@ -37,5 +42,7 @@
 <a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="20%"></a>
 
 <a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="20%"></a>
+
+## 過去やってきた活動とか
 
 ## 👩‍💻お仕事
