@@ -13,21 +13,24 @@ https://www.twitch.tv/kiyomaryu
 
 ## 📺配信や動画投稿
 
-<a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="20%"></a>
-<a href="https://twitch.tv/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760951-339d8313-9a04-4044-979e-6157da8e6367.png" width="20%"></a>
+## 😎VRSNS
 
-<a href="https://youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760563-4175cb0f-a0c5-43e0-834e-3ccb9951e77a.png" width="20%"></a>
+<a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="10%"></a>
+<a href="https://twitch.tv/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760951-339d8313-9a04-4044-979e-6157da8e6367.png" width="8%"></a>
+
+## 🚲自転車
+
+<a href="https://youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760563-4175cb0f-a0c5-43e0-834e-3ccb9951e77a.png" width="10%"></a>
 
 ## ✒️執筆
+
 <a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="20%"></a><br><br>
 <a href="https://zenn.dev/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758611-f3db84bd-27a8-43ef-ac92-a7fd24694d74.png" width="20%"></a>
 
-## 📱連絡先
+## 📱SNS
 <a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197701110-ddebfaea-b7b1-41e1-b85c-8407975aa5e8.png" width="10%"></a>
 
-
-
-
 ## その他
-- 🍠干芋
-https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share
+<a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="20%"></a>
+
+<a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="20%"></a>
