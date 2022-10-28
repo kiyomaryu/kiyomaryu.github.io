@@ -2,6 +2,8 @@
 
 ここはインドアアウトドアの様々な活動をしている「きよまる」のポータルサイトになります。
 
+※随時追記中
+
 ## 🤔きよまるとは？
 <img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="20%"><br>
 バーチャルとリアルの活動の配信をVR内からTwitch,YouTubeでしています。
