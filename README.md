@@ -77,7 +77,7 @@ Clusterのワールドです。
 
 #### VRチャンネル
 
-きよまるの一週間の活動を雑談形式で配信をしています。  
+毎週木曜日の22:00からきよまるの一週間の活動を雑談形式で配信をしています。  
 リアルな日情報をお送りしていますのでチャンネル登録と高評価よろしくおねがいします！  
 
 <a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="20%"></a>
