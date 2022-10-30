@@ -27,7 +27,8 @@ VR関連やその他ポエムをnoteに執筆しています。
 
 ### VRSNS
 
-主に下記のサービスにて楽しくVR活動しています。
+主に下記のサービスにて楽しくVR活動しています。  
+フレンドリンクになっているのでこちらからきよまるにフレンド申請できます。  
 
 <a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197698169-73a78bcf-689b-45ff-921d-a2ae045285f1.png" width="30%"></a>
 <a href="https://cluster.mu/u/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197757226-5d647d77-cf62-493d-9bd0-826d920d8e12.png" width="30%"></a>
