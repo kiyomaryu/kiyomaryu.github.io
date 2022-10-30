@@ -54,7 +54,7 @@ Clusterのワールドです。
 
 **VketCloud** 
 
-下記の画像のリンクからブラウザを開き「新規」を押して入れます。※スマホでも入れます。
+下記の画像のリンクからブラウザを開き「シングル」を押して入れます。※スマホでも入れます。ボイチャはOFFのモードです。
 
 <a href="https://lab.vketcloud.com/make/worlds/kiyomaru/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859284-e87416b9-1b6f-44b9-8098-ab9831e6f4ac.png" width="50%"></a><br>
 
