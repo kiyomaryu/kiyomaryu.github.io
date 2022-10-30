@@ -66,6 +66,16 @@ Clusterのワールドです。
 
 <a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859356-97c68986-7365-4144-8e10-0afea2e3f162.png" width="70%"></a><br>
 
+#### きよまるラボ
+
+- お仕事やIT技術系の相談、人生相談などをClusterやVRChatで作業しながら聞いたりしています。逆にきよまるからも相談します。
+
+#### どこに行けばきよまるに会えるの？
+- Cluster
+  - 平日11:00-13:00頃に作業通話をしながら上記で紹介した森林浴ワールドにて雑談しています
+- VRChat
+  - 毎日21:00以降に色んなワールド巡ったり森林浴ワールドにて作業しています
+
 ### 情報発信
 
 #### VRチャンネル
