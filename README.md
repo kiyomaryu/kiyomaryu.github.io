@@ -95,15 +95,14 @@ VR活動や働き方、その他いろんなポエムを書いています
 
 <a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="40%"></a><br><br>
 
-- [【きよまる】祝！ワンオフアバター完成！依頼～完成までの流れを公開します！](https://note.com/kiyomaryu/n/n8d17c3edf921)
-- [VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)
-- [【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)
+[【きよまる】祝！ワンオフアバター完成！依頼～完成までの流れを公開します！](https://note.com/kiyomaryu/n/n8d17c3edf921)  
+[VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)  
+[【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)  
 
 ### イベント登壇
 
-下記のイベントにてお話をしました。
+VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) #xram81 #メタバース #cluster  
 
-- VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) #xram81 #メタバース #cluster
 <a href="https://youtu.be/RPPpqMXA4Ko" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198861986-4a92b7da-2c3c-4b63-a9fe-964d0e5b73e1.png" width="40%"></a><br><br>
 
 
