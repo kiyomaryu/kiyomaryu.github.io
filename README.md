@@ -6,10 +6,10 @@
 
 ## 目次
 - きよまるとは
-- 主な活動(趣味)
+- [主な活動(趣味)](https://kiyomaru.me/#%E4%B8%BB%E3%81%AA%E6%B4%BB%E5%8B%95(%E8%B6%A3%E5%91%B3))
   - VRSNS
   - 動画配信や投稿
-- お仕事
+- [お仕事ポートフォリオ](https://kiyomaru.me/#%E3%81%8A%E4%BB%95%E4%BA%8B%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA)
   - 経歴
   - 得意なこと
   - いま力をいれていること
@@ -19,7 +19,7 @@
 
 ## 🤔きよまるとは
 
-<img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="20%"><br>
+<a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="20%"></a>
 
 VRChatをはじめとしたVRSNSでワールド作成、アバター改変、イベント主催をしています。  
 情報発信が好きなのでYouTubeにて日々の活動を発信中。  
@@ -67,36 +67,90 @@ Clusterのワールドです。
 
 <a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859356-97c68986-7365-4144-8e10-0afea2e3f162.png" width="50%"></a><br>
 
-
 ### 動画配信や投稿
 
 #### VRチャンネル
+
+きよまるの一週間の活動を雑談形式で配信をしています。  
+リアルな日情報をお送りしていますのでチャンネル登録と高評価よろしくおねがいします！  
 
 <a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="10%"></a>
 <a href="https://twitch.tv/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760951-339d8313-9a04-4044-979e-6157da8e6367.png" width="8%"></a><br>
 
 #### きよまるの旅チャンネル
 
+主に自転車で長距離ライドや聖地巡礼したときの動画になります。  
+最近は自転車に乗る時間が取れずに更新休止中。  
+
 <a href="https://youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760563-4175cb0f-a0c5-43e0-834e-3ccb9951e77a.png" width="10%"></a>
-
-
-
 
 ### 執筆
 
-<a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="20%"></a><br><br>
-<a href="https://zenn.dev/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758611-f3db84bd-27a8-43ef-ac92-a7fd24694d74.png" width="20%"></a>
+VR活動や働き方、その他いろんなポエムを書いています
 
-### SNS
-<a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197701110-ddebfaea-b7b1-41e1-b85c-8407975aa5e8.png" width="10%"></a>
+<a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="20%"></a><br><br>
+
+IT技術系についての技術記事を少しずつ執筆中。  
+
+<a href="https://zenn.dev/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758611-f3db84bd-27a8-43ef-ac92-a7fd24694d74.png" width="20%"></a>
 
 ### その他
 <a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="20%"></a>
 
 <a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="20%"></a>
 
-## 👩‍💻お仕事
-### 経歴とパラメーター
-### 得意なこと(できること)
-### 好きなこと
-### 今後やっていきたいこと
+## 👩‍💻お仕事ポートフォリオ
+
+### 職務経歴
+
+できることを増やしたいという気持ちで様々な業務に従事。現在業界10年目になります。
+
+- SIerに新卒入社、設備管理システムのテスト作業に従事
+- SESにてwebアプリケーションのバックエンド開発及びECサイトの運用を担当
+- 中古自動車ディーラーの社内SEとして自社オークションシステムの運用、保守、サイト構築、インフラ保守、ベンダーコントロールを経験
+- 自社サイト及びホスティングサービスのサーバ開発・運用を担当(オンプレ系)
+- クラウドインフラの設計・構築・運用に加えチームマネジメントや業務改善を担当。バックエンドにてWebAPIの設計、実装　※イマココ
+
+### 直近の実績
+
+- [VketSummer2022](https://summer2022.vket.com/credit)にてサーバインフラを担当
+
+### 強み
+
+必要に応じて様々なスキルを身につけてきました。  
+幅広くそこそこ深くやっているジェネラリストタイプの人です。    
+
+- 主にWeb系の技術レイヤーが得意でインフラ構築からwebアプリケーション開発まで一貫して作り上げることができること
+- 情報整理と対象読者に合わせたドキュメント作成ができること
+- コミュニケーション取りながらプロジェクトを前に進めること
+- やりたいことを日々コツコツと継続できること
+- 人見知りしないこと
+
+### 技術スタック
+
+- インフラ構築・運用
+  - OS：CentOS,Ubuntu
+  - コンテナ技術：k8s,docker
+  - クラウド
+    - AWS: ECS+FARGATE,Lambda,CloudFront+S3,CloudWatch,IAM管理
+    - GCP: GAE
+  - webサーバ：apache,nginx,openlitespeed
+  - DB：mariadb
+  - 監視：zabbix,nagios,grafana
+  - セキュリティ診断：OpenVuls,OWASP ZWP,OpenVAS
+  - Iac：ansible,terraform,serverless framework
+
+- バックエンド開発
+  - 言語：Ruby(Ruby on rails),Python3,シェルスクリプト,PHP8(Laravel),Java(Spring)
+
+- その他 ※学習中
+  - TypeScript,Vue.js
+  - Unity,Blender (ワールド作成やアバター改変のため)
+
+
+
+## 📩連絡先
+
+イベント登壇やその他VR活動についての取材、各種相談はTwitterのリプやDMにてお願いいたします。
+
+<a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197701110-ddebfaea-b7b1-41e1-b85c-8407975aa5e8.png" width="10%"></a>
