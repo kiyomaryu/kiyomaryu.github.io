@@ -1,9 +1,5 @@
 ![image](https://user-images.githubusercontent.com/24783202/198858910-a37233b5-cc9c-4078-8b3f-763a601e3a4e.png)
 
-# 🚩このサイトについて
-
-ここはVRをはじめ様々な活動をしている「きよまる」のポータルサイトになります。
-
 ## 目次
 - きよまるとは
 - [主な活動(趣味)](https://kiyomaru.me/#%E4%B8%BB%E3%81%AA%E6%B4%BB%E5%8B%95(%E8%B6%A3%E5%91%B3))
@@ -103,21 +99,27 @@ VR活動や働き方、その他いろんなポエムを書いています
 - [VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)
 - [【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)
 
+### イベント登壇
+
+下記のイベントにてお話をしました。
+
+- VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) #xram81 #メタバース #cluster
+<a href="https://youtu.be/RPPpqMXA4Ko" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198861986-4a92b7da-2c3c-4b63-a9fe-964d0e5b73e1.png" width="40%"></a><br><br>
+
+
 ### その他
 
 きよまるの様々活動を応援してくれる方のFANBOXです。  
 
 <a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="30%"></a>
   
-
 ほしいもリストです。  
 
-<a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="30%"></a>
+<a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="20%"></a>
   
     
-今日のきよまるゴハン
-
-- かれこれ3年ほどTwitterにて[食事](https://twitter.com/search?q=%23%E4%BB%8A%E6%97%A5%E3%81%AE%E3%81%8D%E3%82%88%E3%81%BE%E3%82%8B%E3%82%B4%E3%83%8F%E3%83%B3&src=typed_query)をツイートしています
+今日のきよまるゴハン  
+かれこれ3年ほどTwitterにて[食事](https://twitter.com/search?q=%23%E4%BB%8A%E6%97%A5%E3%81%AE%E3%81%8D%E3%82%88%E3%81%BE%E3%82%8B%E3%82%B4%E3%83%8F%E3%83%B3&src=typed_query)をツイートしています
 
 ## 👩‍💻お仕事ポートフォリオ
 
