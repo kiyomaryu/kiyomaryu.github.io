@@ -23,7 +23,9 @@ VRChatをはじめとしたVRSNSでワールド作成、アバター改変、イ
 情報発信が好きなのでYouTubeにて日々の活動を発信中。  
 VR関連やその他ポエムをnoteに執筆しています。  
 知らないことを知ったり、できないことができるようになることが好きなこともあり自転車で旅をしていました。  
-お仕事はスタートアップ企業にてインフラエンジニアをしています。自動化たのしい。
+お仕事はスタートアップ企業にてインフラエンジニアをしています。自動化たのしい。  
+  
+アバターデザイン及び制作は[しらとりこはね](https://twitter.com/shiratori_ko3D)さん
 
 ## ⚽主な活動
 
@@ -87,7 +89,7 @@ VR活動や働き方、その他いろんなポエムを書いています
 
 <a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="40%"></a><br><br>
 
-- [【きよまる】祝！ワンオフアバター完成！依頼～完成までの流れを公開します！ | #VRoid](https://note.com/kiyomaryu/n/n8d17c3edf921)
+- [【きよまる】祝！ワンオフアバター完成！依頼～完成までの流れを公開します！](https://note.com/kiyomaryu/n/n8d17c3edf921)
 - [VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)
 - [【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)
 
@@ -97,7 +99,7 @@ VR活動や働き方、その他いろんなポエムを書いています
 
 <a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="30%"></a>
   
- 
+
 ほしいもリストです。  
 
 <a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="30%"></a>
@@ -106,7 +108,6 @@ VR活動や働き方、その他いろんなポエムを書いています
 今日のきよまるゴハン
 
 - かれこれ3年ほどTwitterにて[食事](https://twitter.com/search?q=%23%E4%BB%8A%E6%97%A5%E3%81%AE%E3%81%8D%E3%82%88%E3%81%BE%E3%82%8B%E3%82%B4%E3%83%8F%E3%83%B3&src=typed_query)をツイートしています
-
 
 ## 👩‍💻お仕事ポートフォリオ
 
