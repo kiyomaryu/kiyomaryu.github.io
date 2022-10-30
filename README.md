@@ -40,14 +40,14 @@ VR関連やその他ポエムをnoteに執筆しています。
 
 **VRChat**
 
-<a href="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" width="70%"></a><br>
+下記の画像をクリックするとワールド詳細画面が開きます。
 
-※まだpublic化はしていないのできよまるがいるときにお越しください。
+<a href="https://vrchat.com/home/launch?worldId=wrld_9ff0da7c-e4ac-4af3-89b6-b70bd9c3de76" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" width="70%"></a><br>
 
 **Cluster**
 
 Clusterのワールドです。
-下記の画像をクリックするとClusterのワールド詳細ページが開きます
+下記の画像をクリックするとClusterのワールド詳細ページが開きます。
 
 <a href="https://cluster.mu/w/9a611fdc-78ab-4a68-a983-d24c626dfea4" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859128-8cc6a8fe-72c8-41a0-a490-7f191ab2cd9b.png" width="70%"></a><br>
 
