@@ -17,7 +17,7 @@
 
 ## 🤔きよまるとは
 
-<a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="20%"></a>
+<a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197695150-51754827-01c8-4caa-bd45-09e7d413f33a.png" width="40%"></a>
 
 VRChatをはじめとしたVRSNSでワールド作成、アバター改変、イベント主催をしています。  
 情報発信が好きなのでYouTubeにて日々の活動を発信中。  
@@ -31,9 +31,9 @@ VR関連やその他ポエムをnoteに執筆しています。
 
 主に下記のサービスにて楽しくVR活動しています。
 
-<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197698169-73a78bcf-689b-45ff-921d-a2ae045285f1.png" width="20%"></a>
+<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197698169-73a78bcf-689b-45ff-921d-a2ae045285f1.png" width="30%"></a>
 <a href="https://cluster.mu/u/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197757226-5d647d77-cf62-493d-9bd0-826d920d8e12.png" width="30%"></a>
-<a href="https://neos.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197699808-34f238a1-dd85-4eeb-a67b-909e2aab120e.png" width="20%"></a><br>
+<a href="https://neos.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197699808-34f238a1-dd85-4eeb-a67b-909e2aab120e.png" width="30%"></a><br>
 
 #### ワールド作成
 
@@ -41,7 +41,7 @@ VR関連やその他ポエムをnoteに執筆しています。
 
 **VRChat**
 
-<a href="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" width="50%"></a><br>
+<a href="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859400-f5b88a9c-13dd-4efb-8446-695932995afc.png" width="70%"></a><br>
 
 ※まだpublic化はしていないのできよまるがいるときにお越しください。
 
@@ -50,19 +50,19 @@ VR関連やその他ポエムをnoteに執筆しています。
 Clusterのワールドです。
 下記の画像をクリックするとClusterのワールド詳細ページが開きます
 
-<a href="https://cluster.mu/w/9a611fdc-78ab-4a68-a983-d24c626dfea4" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859128-8cc6a8fe-72c8-41a0-a490-7f191ab2cd9b.png" width="50%"></a><br>
+<a href="https://cluster.mu/w/9a611fdc-78ab-4a68-a983-d24c626dfea4" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859128-8cc6a8fe-72c8-41a0-a490-7f191ab2cd9b.png" width="70%"></a><br>
 
 **VketCloud** 
 
 下記の画像のリンクからブラウザを開き「シングル」を押して入れます。※スマホでも入れます。ボイチャはOFFのモードです。
 
-<a href="https://lab.vketcloud.com/make/worlds/kiyomaru/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859284-e87416b9-1b6f-44b9-8098-ab9831e6f4ac.png" width="50%"></a><br>
+<a href="https://lab.vketcloud.com/make/worlds/kiyomaru/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859284-e87416b9-1b6f-44b9-8098-ab9831e6f4ac.png" width="70%"></a><br>
 
 #### イベント主催
 
 毎週土曜日の22:00頃からVRChatまたはNeosVRにてアニソン聞きながら限界オタクする飲み会をしています。
 
-<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859356-97c68986-7365-4144-8e10-0afea2e3f162.png" width="50%"></a><br>
+<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859356-97c68986-7365-4144-8e10-0afea2e3f162.png" width="70%"></a><br>
 
 ### 情報発信
 
@@ -71,40 +71,36 @@ Clusterのワールドです。
 きよまるの一週間の活動を雑談形式で配信をしています。  
 リアルな日情報をお送りしていますのでチャンネル登録と高評価よろしくおねがいします！  
 
-<a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="10%"></a>
-<a href="https://twitch.tv/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760951-339d8313-9a04-4044-979e-6157da8e6367.png" width="8%"></a><br>
+<a href="https://youtube.com/channel/UCci1qTtf7GogiAKxj9KtFyA" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760445-0cf1aec9-7835-4ebf-8779-874bfa1a8e5e.png" width="20%"></a>
+<a href="https://twitch.tv/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760951-339d8313-9a04-4044-979e-6157da8e6367.png" width="18%"></a><br>
 
 #### きよまるの旅チャンネル
 
 主に自転車で長距離ライドや聖地巡礼したときの動画になります。  
 最近は自転車に乗る時間が取れずに更新休止中。  
 
-<a href="https://youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760563-4175cb0f-a0c5-43e0-834e-3ccb9951e77a.png" width="10%"></a>
+<a href="https://youtube.com/channel/UCaGPjuR0PiVAEtwCs9JkG_Q" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197760563-4175cb0f-a0c5-43e0-834e-3ccb9951e77a.png" width="20%"></a>
 
 ### 執筆
 
 VR活動や働き方、その他いろんなポエムを書いています
 
-<a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="20%"></a><br><br>
+<a href="https://note.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758183-f628fa48-c04e-4c34-8336-867f6fae7620.png" width="40%"></a><br><br>
 
 - [【きよまる】祝！ワンオフアバター完成！依頼～完成までの流れを公開します！ | #VRoid](https://note.com/kiyomaryu/n/n8d17c3edf921)
 - [VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)
 - [【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)
 
-IT技術系についての技術記事を少しずつ執筆中。  
-
-<a href="https://zenn.dev/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197758611-f3db84bd-27a8-43ef-ac92-a7fd24694d74.png" width="20%"></a>
-
 ### その他
 
 きよまるの様々活動を応援してくれる方のFANBOXです。  
 
-<a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="20%"></a>
+<a href="https://kiyomaru.fanbox.cc/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763453-d3ad03e1-0567-43f6-96aa-6085e3b0826e.png" width="30%"></a>
   
-  
+ 
 ほしいもリストです。  
 
-<a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="20%"></a>
+<a href="https://amazon.jp/hz/wishlist/ls/1R7GSM26GWBV0?ref_=wl_share" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197763099-005da693-898c-4858-a83e-dc5acfabfd2d.png" width="30%"></a>
   
     
 今日のきよまるゴハン
