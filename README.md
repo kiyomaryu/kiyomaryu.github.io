@@ -61,7 +61,7 @@ Clusterのワールドです。
 
 毎週土曜日の22:00頃からVRChatまたはNeosVRにてアニソン聞きながら限界オタクする飲み会をしています。
 
-<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198859356-97c68986-7365-4144-8e10-0afea2e3f162.png" width="70%"></a><br>
+<a href="https://vrchat.com/home/user/usr_5a1494eb-5ac9-48b1-a012-3286077fe156" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/201516271-54a7886e-ee04-4551-aed3-0bcc50d87dbc.png" width="70%"></a><br>
 
 #### きよまるラボ
 
