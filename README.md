@@ -172,5 +172,8 @@ VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) 
 ## 📩連絡先
 
 イベント登壇やその他VR活動についての取材、各種相談はTwitterのリプやDMにてお願いいたします。
+Twitterが使えない場合は分散SNSのmisskeyにてご連絡いただければと思います。
 
 <a href="https://twitter.com/kiyomaryu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/197701110-ddebfaea-b7b1-41e1-b85c-8407975aa5e8.png" width="10%"></a>
+
+<a href="https://misskey.io/@kiyomaru" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/202673036-5cf4b3c5-0f17-4377-b845-09c6336444ba.png" width="10%"></a>
