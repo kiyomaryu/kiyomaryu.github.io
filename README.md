@@ -65,7 +65,9 @@ Clusterのワールドです。
 
 #### きよまるラボ
 
-- お仕事やIT技術系の相談、人生相談などをClusterやVRChatで作業しながら聞いたりしています。逆にきよまるからも相談します。
+お仕事やIT技術系の相談、人生相談などをClusterやVRChatで作業しながら聞いたりしています。逆にきよまるからも相談します。
+
+<a href="https://cluster.mu/w/9a611fdc-78ab-4a68-a983-d24c626dfea4" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/203207514-ee686b7a-d300-4d2e-9acf-b767d252b12d.png" width="70%"></a><br>
 
 #### どこに行けばきよまるに会えるの？
 - Cluster
