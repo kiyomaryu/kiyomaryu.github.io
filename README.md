@@ -108,7 +108,6 @@ VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) 
 
 <a href="https://youtu.be/RPPpqMXA4Ko" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/24783202/198861986-4a92b7da-2c3c-4b63-a9fe-964d0e5b73e1.png" width="40%"></a><br><br>
 
-
 ### その他
 
 きよまるの様々活動を応援してくれる方のFANBOXです。  
@@ -137,7 +136,8 @@ VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) 
 
 ### 直近の実績
 
-- [VketSummer2022](https://summer2022.vket.com/credit)にてサーバインフラを担当
+- [Vket2022Summer](https://summer2022.vket.com/credit)にてサーバインフラを担当
+- [Vket2022Winter](https://winter2022.vket.com/credit)にてサーバインフラを担当
 
 ### 強み
 
