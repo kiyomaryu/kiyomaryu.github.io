@@ -102,6 +102,9 @@ VR活動や働き方、その他いろんなポエムを書いています
 [VRゴーグルをOculus Quest 2からVALVE INDEXに乗り換えた経緯と感想](https://note.com/kiyomaryu/n/nbb4b6063c36b)  
 [【転職】できるだけやりたくないことをやらないように生きてたら毎日楽しくなってきた](https://note.com/kiyomaryu/n/nb993c2339360)  
 
+#### きよまるの本棚
+- [きよまるが読んだ本の感想だったりメモをしているzennのスクラップ](https://zenn.dev/kiyomaryu/scraps/9598bfe7f71246)
+
 ### イベント登壇
 
 VRSNSを始めて情報発信してたらお仕事もらえた話(きよまる) #xram81 #メタバース #cluster  
